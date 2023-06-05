@@ -10,7 +10,7 @@ import EasyPySpin
 #
 # Skaner powierzchni wykorzystujacy glowice pomiarowa stykowa z tablica targetow ArUco
 #
-# Program program zbierajacy obrazy tablicy kalibracyjnej
+# Program zbierajacy obrazy tablicy kalibracyjnej
 #
 # 2023-06-05
 #
